@@ -1,0 +1,346 @@
+
+[submodule "ada125"]
+	path = ada125
+	url = https://github.com/sarvex/ada125
+[submodule "algol125"]
+	path = algol125
+	url = https://github.com/sarvex/algol125
+[submodule "apl125"]
+	path = apl125
+	url = https://github.com/sarvex/apl125
+[submodule "assembly125"]
+	path = assembly125
+	url = https://github.com/sarvex/assembly125
+[submodule "bash125"]
+	path = bash125
+	url = https://github.com/sarvex/bash125
+[submodule "basic125"]
+	path = basic125
+	url = https://github.com/sarvex/basic125
+[submodule "beef125"]
+	path = beef125
+	url = https://github.com/sarvex/beef125
+[submodule "bhai125"]
+	path = bhai125
+	url = https://github.com/sarvex/bhai125
+[submodule "boo125"]
+	path = boo125
+	url = https://github.com/sarvex/boo125
+[submodule "brainfuck125"]
+	path = brainfuck125
+	url = https://github.com/sarvex/brainfuck125
+[submodule "c125"]
+	path = c125
+	url = https://github.com/sarvex/c125
+[submodule "c--125"]
+	path = c--125
+	url = https://github.com/sarvex/c--125
+[submodule "c3125"]
+	path = c3125
+	url = https://github.com/sarvex/c3125
+[submodule "carbon125"]
+	path = carbon125
+	url = https://github.com/sarvex/carbon125
+[submodule "chai125"]
+	path = chai125
+	url = https://github.com/sarvex/chai125
+[submodule "checkedC125"]
+	path = checkedC125
+	url = https://github.com/sarvex/checkedC125
+[submodule "chef125"]
+	path = chef125
+	url = https://github.com/sarvex/chef125
+[submodule "chez125"]
+	path = chez125
+	url = https://github.com/sarvex/chez125
+[submodule "chicken125"]
+	path = chicken125
+	url = https://github.com/sarvex/chicken125
+[submodule "clisp125"]
+	path = clisp125
+	url = https://github.com/sarvex/clisp125
+[submodule "clojure125"]
+	path = clojure125
+	url = https://github.com/sarvex/clojure125
+[submodule "clojurescript125"]
+	path = clojurescript125
+	url = https://github.com/sarvex/clojurescript125
+[submodule "cobol125"]
+	path = cobol125
+	url = https://github.com/sarvex/cobol125
+[submodule "coffeescript125"]
+	path = coffeescript125
+	url = https://github.com/sarvex/coffeescript125
+[submodule "cpp125"]
+	path = cpp125
+	url = https://github.com/sarvex/cpp125
+[submodule "crystal125"]
+	path = crystal125
+	url = https://github.com/sarvex/crystal125
+[submodule "csh125"]
+	path = csh125
+	url = https://github.com/sarvex/csh125
+[submodule "cSharp125"]
+	path = cSharp125
+	url = https://github.com/sarvex/cSharp125
+[submodule "cyber125"]
+	path = cyber125
+	url = https://github.com/sarvex/cyber125
+[submodule "d125"]
+	path = d125
+	url = https://github.com/sarvex/d125
+[submodule "dart125"]
+	path = dart125
+	url = https://github.com/sarvex/dart125
+[submodule "elixir125"]
+	path = elixir125
+	url = https://github.com/sarvex/elixir125
+[submodule "elm125"]
+	path = elm125
+	url = https://github.com/sarvex/elm125
+[submodule "elvish125"]
+	path = elvish125
+	url = https://github.com/sarvex/elvish125
+[submodule "emojiCode125"]
+	path = emojiCode125
+	url = https://github.com/sarvex/emojiCode125
+[submodule "erlang125"]
+	path = erlang125
+	url = https://github.com/sarvex/erlang125
+[submodule "factor125"]
+	path = factor125
+	url = https://github.com/sarvex/factor125
+[submodule "fish125"]
+	path = fish125
+	url = https://github.com/sarvex/fish125
+[submodule "fortran125"]
+	path = fortran125
+	url = https://github.com/sarvex/fortran125
+[submodule "freeBasic125"]
+	path = freeBasic125
+	url = https://github.com/sarvex/freeBasic125
+[submodule "freePascal125"]
+	path = freePascal125
+	url = https://github.com/sarvex/freePascal125
+[submodule "fSharp125"]
+	path = fSharp125
+	url = https://github.com/sarvex/fSharp125
+[submodule "gForth125"]
+	path = gForth125
+	url = https://github.com/sarvex/gForth125
+[submodule "giz125"]
+	path = giz125
+	url = https://github.com/sarvex/giz125
+[submodule "go125"]
+	path = go125
+	url = https://github.com/sarvex/go125
+[submodule "gravity125"]
+	path = gravity125
+	url = https://github.com/sarvex/gravity125
+[submodule "guile125"]
+	path = guile125
+	url = https://github.com/sarvex/guile125
+[submodule "hack125"]
+	path = hack125
+	url = https://github.com/sarvex/hack125
+[submodule "harbour125"]
+	path = harbour125
+	url = https://github.com/sarvex/harbour125
+[submodule "haskell125"]
+	path = haskell125
+	url = https://github.com/sarvex/haskell125
+[submodule "haxe125"]
+	path = haxe125
+	url = https://github.com/sarvex/haxe125
+[submodule "holyC125"]
+	path = holyC125
+	url = https://github.com/sarvex/holyC125
+[submodule "idris125"]
+	path = idris125
+	url = https://github.com/sarvex/idris125
+[submodule "intercal125"]
+	path = intercal125
+	url = https://github.com/sarvex/intercal125
+[submodule "io125"]
+	path = io125
+	url = https://github.com/sarvex/io125
+[submodule "ion125"]
+	path = ion125
+	url = https://github.com/sarvex/ion125
+[submodule "j125"]
+	path = j125
+	url = https://github.com/sarvex/j125
+[submodule "jai125"]
+	path = jai125
+	url = https://github.com/sarvex/jai125
+[submodule "java125"]
+	path = java125
+	url = https://github.com/sarvex/java125
+[submodule "javascript125"]
+	path = javascript125
+	url = https://github.com/sarvex/javascript125
+[submodule "julia125"]
+	path = julia125
+	url = https://github.com/sarvex/julia125
+[submodule "kotlin125"]
+	path = kotlin125
+	url = https://github.com/sarvex/kotlin125
+[submodule "ksh125"]
+	path = ksh125
+	url = https://github.com/sarvex/ksh125
+[submodule "lisp125"]
+	path = lisp125
+	url = https://github.com/sarvex/lisp125
+[submodule "lolCode125"]
+	path = lolCode125
+	url = https://github.com/sarvex/lolCode125
+[submodule "lua125"]
+	path = lua125
+	url = https://github.com/sarvex/lua125
+[submodule "machine125"]
+	path = machine125
+	url = https://github.com/sarvex/machine125
+[submodule "malbolge125"]
+	path = malbolge125
+	url = https://github.com/sarvex/malbolge125
+[submodule "matlab125"]
+	path = matlab125
+	url = https://github.com/sarvex/matlab125
+[submodule "miniKanren125"]
+	path = miniKanren125
+	url = https://github.com/sarvex/miniKanren125
+[submodule "modula125"]
+	path = modula125
+	url = https://github.com/sarvex/modula125
+[submodule "nativescript125"]
+	path = nativescript125
+	url = https://github.com/sarvex/nativescript125
+[submodule "nelua125"]
+	path = nelua125
+	url = https://github.com/sarvex/nelua125
+[submodule "nim125"]
+	path = nim125
+	url = https://github.com/sarvex/nim125
+[submodule "nushell125"]
+	path = nushell125
+	url = https://github.com/sarvex/nushell125
+[submodule "objectPascal125"]
+	path = objectPascal125
+	url = https://github.com/sarvex/objectPascal125
+[submodule "ocaml125"]
+	path = ocaml125
+	url = https://github.com/sarvex/ocaml125
+[submodule "odin125"]
+	path = odin125
+	url = https://github.com/sarvex/odin125
+[submodule "pascal125"]
+	path = pascal125
+	url = https://github.com/sarvex/pascal125
+[submodule "perl125"]
+	path = perl125
+	url = https://github.com/sarvex/perl125
+[submodule "pharo125"]
+	path = pharo125
+	url = https://github.com/sarvex/pharo125
+[submodule "php125"]
+	path = php125
+	url = https://github.com/sarvex/php125
+[submodule "piet125"]
+	path = piet125
+	url = https://github.com/sarvex/piet125
+[submodule "powershell125"]
+	path = powershell125
+	url = https://github.com/sarvex/powershell125
+[submodule "prolog125"]
+	path = prolog125
+	url = https://github.com/sarvex/prolog125
+[submodule "purescript125"]
+	path = purescript125
+	url = https://github.com/sarvex/purescript125
+[submodule "qSharp125"]
+	path = qSharp125
+	url = https://github.com/sarvex/qSharp125
+[submodule "r125"]
+	path = r125
+	url = https://github.com/sarvex/r125
+[submodule "racket125"]
+	path = racket125
+	url = https://github.com/sarvex/racket125
+[submodule "raku125"]
+	path = raku125
+	url = https://github.com/sarvex/raku125
+[submodule "rect125"]
+	path = rect125
+	url = https://github.com/sarvex/rect125
+[submodule "rockstar125"]
+	path = rockstar125
+	url = https://github.com/sarvex/rockstar125
+[submodule "ruby125"]
+	path = ruby125
+	url = https://github.com/sarvex/ruby125
+[submodule "rust125"]
+	path = rust125
+	url = https://github.com/sarvex/rust125
+[submodule "s125"]
+	path = s125
+	url = https://github.com/sarvex/s125
+[submodule "scala125"]
+	path = scala125
+	url = https://github.com/sarvex/scala125
+[submodule "scheme125"]
+	path = scheme125
+	url = https://github.com/sarvex/scheme125
+[submodule "scopes125"]
+	path = scopes125
+	url = https://github.com/sarvex/scopes125
+[submodule "scratch125"]
+	path = scratch125
+	url = https://github.com/sarvex/scratch125
+[submodule "shakespeare125"]
+	path = shakespeare125
+	url = https://github.com/sarvex/shakespeare125
+[submodule "simula125"]
+	path = simula125
+	url = https://github.com/sarvex/simula125
+[submodule "skip125"]
+	path = skip125
+	url = https://github.com/sarvex/skip125
+[submodule "smallBasic125"]
+	path = smallBasic125
+	url = https://github.com/sarvex/smallBasic125
+[submodule "solidity125"]
+	path = solidity125
+	url = https://github.com/sarvex/solidity125
+[submodule "swift125"]
+	path = swift125
+	url = https://github.com/sarvex/swift125
+[submodule "tcsh125"]
+	path = tcsh125
+	url = https://github.com/sarvex/tcsh125
+[submodule "tsh125"]
+	path = tsh125
+	url = https://github.com/sarvex/tsh125
+[submodule "typescript125"]
+	path = typescript125
+	url = https://github.com/sarvex/typescript125
+[submodule "umka125"]
+	path = umka125
+	url = https://github.com/sarvex/umka125
+[submodule "v125"]
+	path = v125
+	url = https://github.com/sarvex/v125
+[submodule "vala125"]
+	path = vala125
+	url = https://github.com/sarvex/vala125
+[submodule "xonsh125"]
+	path = xonsh125
+	url = https://github.com/sarvex/xonsh125
+[submodule "zig125"]
+	path = zig125
+	url = https://github.com/sarvex/zig125
+[submodule "zsh125"]
+	path = zsh125
+	url = https://github.com/sarvex/zsh125
+[submodule "wren125"]
+	path = wren125
+	url = https://github.com/sarvex/wren125
