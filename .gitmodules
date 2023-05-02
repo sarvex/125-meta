@@ -344,3 +344,30 @@
 [submodule "wren125"]
 	path = wren125
 	url = https://github.com/sarvex/wren125
+[submodule "a125"]
+	path = a125
+	url = https://github.com/sarvex/a125
+[submodule "Bqn125"]
+	path = Bqn125
+	url = https://github.com/sarvex/Bqn125
+[submodule "dylan125"]
+	path = dylan125
+	url = https://github.com/sarvex/dylan125
+[submodule "dylog125"]
+	path = dylog125
+	url = https://github.com/sarvex/dylog125
+[submodule "forth125"]
+	path = forth125
+	url = https://github.com/sarvex/forth125
+[submodule "k125"]
+	path = k125
+	url = https://github.com/sarvex/k125
+[submodule "l125"]
+	path = l125
+	url = https://github.com/sarvex/l125
+[submodule "q125"]
+	path = q125
+	url = https://github.com/sarvex/q125
+[submodule "smalltalk125"]
+	path = smalltalk125
+	url = https://github.com/sarvex/smalltalk125
