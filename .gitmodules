@@ -106,6 +106,9 @@
 [submodule "cSharp125"]
 	path = cSharp125
 	url = git@github.com:sarvex/cSharp125
+[submodule "cuda125"]
+	path = cuda125
+	url = git@github.com:sarvex/cuda125
 [submodule "cyber125"]
 	path = cyber125
 	url = git@github.com:sarvex/cyber125
@@ -340,6 +343,9 @@
 [submodule "rect125"]
 	path = rect125
 	url = git@github.com:sarvex/rect125
+[submodule "red125"]
+	path = red125
+	url = git@github.com:sarvex/red125
 [submodule "rockstar125"]
 	path = rockstar125
 	url = git@github.com:sarvex/rockstar125
@@ -419,3 +425,6 @@
 	path = zsh125
 	url = git@github.com:sarvex/zsh125
 
+[submodule "mojo125"]
+	path = mojo125
+	url = git@github.com:sarvex/mojo125
