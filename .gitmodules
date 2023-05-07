@@ -428,3 +428,6 @@
 [submodule "mojo125"]
 	path = mojo125
 	url = git@github.com:sarvex/mojo125
+[submodule "verilog125"]
+	path = verilog125
+	url = git@github.com:sarvex/verilog125
