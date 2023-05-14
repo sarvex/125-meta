@@ -283,9 +283,9 @@
 [submodule "objectPascal125"]
 	path = objectPascal125
 	url = git@github.com:sarvex/objectPascal125
-[submodule "objc--125"]
-	path = objc--125
-	url = git@github.com:sarvex/objc--125
+[submodule "objcpp125"]
+	path = objcpp125
+	url = git@github.com:sarvex/objcpp125
 [submodule "objc125"]
 	path = objc125
 	url = git@github.com:sarvex/objc125
